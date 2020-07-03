@@ -1,11 +1,11 @@
 import React from 'react'
 
-const Footer = () => {
+const latest = () => {
     return (
         <div>
-            <h3>footer</h3>
+            hello latest prod
         </div>
     )
 }
 
-export default Footer   
+export default latest
